@@ -1,2 +1,2 @@
-# Ecommerce-Purchase-Project
-This is ecommerce project contains some asking questions with answers in python programming.
+# Ecommerce Purchase Project
+A data analysis project focused on understanding customer purchasing behavior using a real-world ecommerce dataset.
